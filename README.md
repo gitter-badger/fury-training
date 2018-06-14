@@ -2,7 +2,7 @@
 This IDE helps developers to get started with Fury Network Energy Blockchain and [STROMDAO](https://stromdao.de/) digital infrastructure.
 
 
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/stromdao/Lobby) 
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/stromdao/Lobby) [![Join the chat at https://gitter.im/fury-training/Lobby](https://badges.gitter.im/fury-training/Lobby.svg)](https://gitter.im/fury-training/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
   
 ## c9.io Setup
 
